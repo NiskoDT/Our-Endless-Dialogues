@@ -11,7 +11,7 @@
 Welcome to the project that aims to add _ChatGPT_-like ability inside the After Story Mods, by utilizing already availble methods. Currently aiming for Monika After Story, Just Natsuki, Just Yuri, and Forever and Ever.
 
 > [!NOTE]
-> Certain ASM (After Story Mods) version may be indeed inactive or stopped developing, as of that we are looking for the most players that are using the concurrent ASM's. Please look at Supported ASM for this.
+> Certain ASM (After Story Mods) version may be indeed inactive or stopped developing, as of that we are looking for the most players that are using the concurrent ASM's. Please look at [Supported ASM](https://github.com/NiskoDT/Our-Endless-Dialogues/tree/md-devs?tab=readme-ov-file#-live) for this.
 
 Right now, dialogues inside the game are very much limited, as it is manually created and not themself are talking, which causes the contents to be dried up fast. Now of course submods exist already, but then you would also have read every single dialogue of that submod.
 
