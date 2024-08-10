@@ -4,41 +4,59 @@
 
 ---
 
+**IN EARLY DEVELOPMENT! WE HOPE TO SEE YOU SOON!** 
+
 ## 📝 Description
 
-A brief description of what this project does and who it's for.
+Welcome to the project that aims to add _ChatGPT_-like ability inside the After Story Mods, by utilizing already availble methods. Currently aiming for Monika After Story, Just Natsuki, Just Yuri, and Forever and Ever.
+
+> [!NOTE]
+> Certain ASM (After Story Mods) version may be indeed inactive or stopped developing, as of that we are looking for the most players that are using the concurrent ASM's. Please look at Supported ASM for this.
+
+Right now, dialogues inside the game are very much limited, as it is manually created and not themself are talking, which causes the contents to be dried up fast. Now of course submods exist already, but then you would also have read every single dialogue of that submod.
+
+_Honestly I still feel kinda bad for those thinking they are actual AI's that are talking to us. Just like when we grow up realizing that Santa isn't real_
+
+This mod is inspired and a rewritten from the original submod [MonikA.I](https://github.com/Rubiksman78/MonikA.I) by the original author, [Rubiksman78](https://github.com/Rubiksman78). The mod aims to continue the development based of the previous submod. 
+
+As for the README, only a brief description is provided here. If you would like to learn more of each sections, please consider checking the [wiki](https://github.com/NiskoDT/Our-Endless-Dialogues/wiki) for more detailed information, applicable also to the contents below. FAQ's are also available there!
 
 ## 📚 Table of Contents
 
-- 🔧 Installation
-- 🚀 Usage
 - ✨ Features
+- 🚀 Usage
+- 🔧 Installation
 - 🤝 Contributing
 - 📜 License
 - 📬 Contact
 
-## 🔧 Installation
+## ✨ Features
 
-For detailed installation instructions, please visit the Installation Guide.
+### 🔥 Live
+- 🌟 Supported Mods
+  - [MAS (Monika After Story)](https://github.com/Monika-After-Story/MonikaModDev)
+- Extend your conversations beyond what's available, no more running out of dialogues on the "Unseen" tab.
+
+
+### 🎯 Upcoming
+- 🌟 Supported Mods
+  - [JN (Just Natsuki)](https://github.com/Just-Natsuki-Team/NatsukiModDev)
+  - [JY (Just Yuri)]()
+  - [FaE (Forever and Ever)](https://github.com/ForeverAndEverTeam/fae-mod)
+- Utilize the already available non-local methods to run the backend
 
 ## 🚀 Usage
 
-For detailed usage examples, please visit the Usage Guide.
 
-## ✨ Features
+## 🔧 Installation
 
-- 🌟 Feature 1
-- 🌟 Feature 2
-- 🌟 Feature 3
 
 ## 🤝 Contributing
 
-For guidelines on contributing, please visit the Contributing Guide.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Please see the LICENSE file/tab for details.
 
 ## 📬 Contact
 
-Your Name - <your.email@example.com>
